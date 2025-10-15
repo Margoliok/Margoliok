@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'am Margo👋
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Margoliok&theme=ayu_mirage)
 
 <!--
 **Margoliok/Margoliok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
